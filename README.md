@@ -33,13 +33,13 @@
 
 ## AWS Projects
 
-| Project | Services | Highlights | Project URL |
-|---|---|---|---|
-| IAM Least-Privilege Setup | IAM, Policies, Groups | S3-only access, denied EC2 ||
-| Static Website S3 + CloudFront | S3, CloudFront, CloudWatch | ~60% latency reduction ||
-| Linux EC2 Deployment | EC2, VPC, Security Groups, Bash | RSA key auth, Terraform IaC ||
-| Serverless URL Shortener | Lambda, API Gateway, DynamoDB | 99.9% availability ||
-| 3-Tier Web App | EC2, RDS MySQL, ALB, Auto Scaling | Multi-AZ, CPU-triggered scaling ||
+| Project | Services | Highlights |
+|---|---|---|
+| [IAM Least-Privilege Setup](https://github.com/chandrasekar-AWS/aws-iam-least-privilege) | IAM, Policies, Groups | S3-only access, denied EC2 |
+| [Static Website S3 + CloudFront](https://github.com/chandrasekar-AWS/aws-s3-static-website-cloudfront) | S3, CloudFront, CloudWatch | ~60% latency reduction |
+| [Linux EC2 Deployment](https://github.com/chandrasekar-AWS/aws-ec2-linux-ssh-setup) | EC2, VPC, Security Groups, Bash | RSA key auth, Terraform IaC |
+| [Serverless URL Shortener](https://github.com/chandrasekar-AWS/aws-serverless-url-shortener) | Lambda, API Gateway, DynamoDB | 99.9% availability |
+| [3-Tier Web App](https://github.com/chandrasekar-AWS/aws-3tier-web-application) | EC2, RDS MySQL, ALB, Auto Scaling | Multi-AZ, CPU-triggered scaling |
 
 ---
 
